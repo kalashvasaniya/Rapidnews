@@ -1,13 +1,16 @@
 {
-  "main.css": "/iNoteBook/static/css/main.890c0cd4.chunk.css",
-  "main.js": "/iNoteBook/static/js/main.d9eab212.chunk.js",
-  "main.js.map": "/iNoteBook/static/js/main.d9eab212.chunk.js.map",
-  "static/js/1.12ca8c9c.chunk.js": "/iNoteBook/static/js/1.12ca8c9c.chunk.js",
-  "static/js/1.12ca8c9c.chunk.js.map": "/iNoteBook/static/js/1.12ca8c9c.chunk.js.map",
-  "runtime~main.js": "/iNoteBook/static/js/runtime~main.1c4a424e.js",
-  "runtime~main.js.map": "/iNoteBook/static/js/runtime~main.1c4a424e.js.map",
-  "static/css/main.890c0cd4.chunk.css.map": "/iNoteBook/static/css/main.890c0cd4.chunk.css.map",
-  "index.html": "/iNoteBook/index.html",
-  "precache-manifest.05a4eda8821607d62c061bced662129d.js": "/iNoteBook/precache-manifest.05a4eda8821607d62c061bced662129d.js",
-  "service-worker.js": "/iNoteBook/service-worker.js"
+  "files": {
+    "main.css": "/Rapidnews/static/css/main.073c9b0a.css",
+    "main.js": "/Rapidnews/static/js/main.e7c8d006.js",
+    "static/js/787.68cb7764.chunk.js": "/Rapidnews/static/js/787.68cb7764.chunk.js",
+    "static/media/loading.gif": "/Rapidnews/static/media/loading.225231f76af799a9b5d1.gif",
+    "index.html": "/Rapidnews/index.html",
+    "main.073c9b0a.css.map": "/Rapidnews/static/css/main.073c9b0a.css.map",
+    "main.e7c8d006.js.map": "/Rapidnews/static/js/main.e7c8d006.js.map",
+    "787.68cb7764.chunk.js.map": "/Rapidnews/static/js/787.68cb7764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e7c8d006.js"
+  ]
 }
